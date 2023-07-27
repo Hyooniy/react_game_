@@ -7,7 +7,7 @@
 
 ## 배포링크
 
-배포방식은 AWS S3의 간이 배포를 이용하였습니다.
+배포방식은 AWS S3의 간이 배포를 이용하였습니다.  
 [react_게임.pptx](https://github.com/Hyooniy/react_game_/files/12180732/react_.pptx)
 
 
