@@ -7,7 +7,8 @@
 
 ## 배포링크
 
-배포방식은 AWS S3의 간이 배포를 이용하였습니다.  
+배포방식은 vercel 배포방식을 이용했습니다.
+https://react-game-tau.vercel.app/
 [react_게임.pptx](https://github.com/Hyooniy/react_game_/files/12180732/react_.pptx)
 
 
